@@ -14,5 +14,6 @@ Notebooks of my PDSA course in IITM
 | S.No | Content |
 | ------------- | ------------- |
 | 1 | <a href="https://github.com/Ashrockzzz2003/PDSA_NoteBooks/blob/main/Week_2/PDSA_W2.ipynb">PDSA_W2</a> |
+| 2 | <a href="https://github.com/Ashrockzzz2003/PDSA_NoteBooks/blob/main/Week_2/PDSA_Week_2_Assignment.ipynb">PDSA_Week_2_Assignment</a>
 
 `Ashwin Narayanan S`
