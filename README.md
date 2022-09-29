@@ -25,4 +25,10 @@ Notebooks of my PDSA course in IITM
 | 2 | <a href="https://github.com/Ashrockzzz2003/PDSA_NoteBooks/blob/main/Week_3/PDSA_Week_3_Assignment.ipynb">PDSA_Week_3_Assignment</a> |
 | 3 | <a href="https://github.com/Ashrockzzz2003/PDSA_NoteBooks/blob/main/Week_3/Live_Coding_Week_3.ipynb">Live_Coding_Week_3</a> |
 
+## Week_4
+
+| S.No | Content |
+| ---- | ------- |
+| 1 | <a href="https://github.com/Ashrockzzz2003/PDSA_NoteBooks/blob/main/Week_4/PDSA_W4.ipynb">PDSA_W4</a> |
+
 `Ashwin Narayanan S`
