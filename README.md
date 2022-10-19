@@ -49,4 +49,13 @@ Topics: `Graph algorithms:- Shortest Path:- Dijkstra's, Bellman Ford and Floyd-W
 | 1 | [PDSA_W5](https://github.com/Ashrockzzz2003/DSA_NoteBooks/blob/main/Week_5/PDSA_W5.ipynb) |
 | 2 | [PDSA_Week_5_Assignment](https://github.com/Ashrockzzz2003/DSA_NoteBooks/blob/main/Week_5/PDSA_Week_5_Assignment.ipynb) |
 
+## Week_6
+
+Topics: `Union-Find Data Structure, Data structures: Tree, Heap, Binary Search Tree`
+
+| S.No | Content |
+| ---- | ------- |
+| 1 | [PDSA_W6](https://github.com/Ashrockzzz2003/DSA_NoteBooks/blob/main/Week_6/PDSA_W6.ipynb) |
+| 2 | [PDSA_Week_6_Assignment](https://github.com/Ashrockzzz2003/DSA_NoteBooks/blob/main/Week_6/PDSA_Week_6_Assignment.ipynb) |
+
 `Ashwin Narayanan S`
